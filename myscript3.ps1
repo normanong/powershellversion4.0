@@ -1,4 +1,5 @@
-﻿param
+#create a schedule or change task detail through web-base
+param
 (
 $schedulename,
 $triggertime,
